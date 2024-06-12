@@ -6,35 +6,35 @@ const textoResultado = document.querySelector(".texto-resultado");
                                               
 const perguntas = [
     {
-        enunciado: "Qual seu estilo de roupa favorito?",
+        enunciado: "Qual jogador de futebol voçê prefere?",
         alternativas: [
-          texto: "Elegante",
-          afirmação: "Casual"
+          texto: "Lionel Messi",
+          afirmação: "Cristiano Ronaldo"
         ]
     },
     {
-        enunciado: "Qual combinação de cores você prefere?",
+        enunciado: "Qual campeonato voçê prefere?",
         alternativas: [
-          texto: "Branco e bege.",
-          afirmação: "Branco e preto.",
+          texto: "Chanpions League.",
+          afirmação: "Libertadores.",
         ]
     },
     {
-        enunciado: "Ao sair de casa, vocẽ escolhe ir com acessórios ou sem?",
+        enunciado: "Qual a posição que voçê prefere ?",
         alternativas: [
-          texto: "Com acessórios.",
-          afirmação: "Sem acessórios."
+          texto: "Atacante.",
+          afirmação: "Goleiro."
         ]
     },
     {
-        enunciado: "Na hora de se arrumar, vocẽ prioriza conforto ou elegãncia?",
+        enunciado: "Qual gol que vc prefere?",
         alternativas: [
-          texto: "Conforto.",
-          afirmação: "Elegãncia."
+          texto: "Bicicleta.",
+          afirmação: "Falta."
         ]
     },
     {
-        enunciado: "Você sabe montar looks com truques visuais?",
+        enunciado: "O Hexa vem?",
         alternativas: [
           texto: "Sim.",
           afirmação: "Não."
